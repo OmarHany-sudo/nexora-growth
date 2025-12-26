@@ -2,7 +2,7 @@ export default function Services() {
   return (
     <section className="py-20 bg-slate-50">
       <div className="max-w-6xl mx-auto px-6">
-        <h2 className="text-3xl font-bold text-center mb-12">
+        <h2 className="text-3xl font-bold text-center mb-14">
           Our Services
         </h2>
 
@@ -11,7 +11,7 @@ export default function Services() {
             <h3 className="text-xl font-semibold mb-3">
               Digital Marketing
             </h3>
-            <p>
+            <p className="text-slate-600">
               Performance-based campaigns focused on leads, conversions,
               and real ROI.
             </p>
@@ -21,8 +21,9 @@ export default function Services() {
             <h3 className="text-xl font-semibold mb-3">
               SEO & Growth
             </h3>
-            <p>
-              Technical and on-page SEO that drives long-term organic growth.
+            <p className="text-slate-600">
+              Technical and on-page SEO that increases visibility
+              and long-term organic traffic.
             </p>
           </div>
 
@@ -30,9 +31,9 @@ export default function Services() {
             <h3 className="text-xl font-semibold mb-3">
               Web & Conversion
             </h3>
-            <p>
-              Websites and landing pages designed to convert visitors
-              into customers.
+            <p className="text-slate-600">
+              Websites and landing pages built to convert visitors
+              into real customers.
             </p>
           </div>
         </div>
