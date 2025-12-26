@@ -7,6 +7,19 @@ import WhyUs from '../components/WhyUs';
 import Process from '../components/Process';
 import CTA from '../components/CTA';
 
+export const metadata = {
+  title: 'Nexora Growth | Data-Driven Marketing & SEO',
+  description:
+    'We grow brands using performance marketing, SEO, and data-driven strategies.',
+  openGraph: {
+    title: 'Nexora Growth',
+    description: 'Data-driven marketing for scalable business growth',
+    url: 'https://nexora-growth.netlify.app',
+    siteName: 'Nexora Growth',
+    type: 'website'
+  }
+};
+
 export default function Home() {
   return (
     <>
