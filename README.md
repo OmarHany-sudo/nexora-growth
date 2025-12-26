@@ -1,10 +1,3 @@
-# Nexora Growth
+# Nexora Growth – FIXED VERSION
 
-Full-featured marketing agency website.
-
-## Features
-- EN / AR (RTL)
-- SEO optimized
-- WhatsApp sticky
-- Blog + Case Studies structure
-- Netlify ready
+This version removes @ alias to guarantee Netlify builds.
