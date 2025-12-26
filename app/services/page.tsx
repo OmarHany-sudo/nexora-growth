@@ -1,4 +1,4 @@
-import Navbar from '@/components/Navbar';
+import Navbar from '../../components/Navbar';
 export const metadata = { title: "Services | Nexora Growth" };
 export default function Services() {
   return (
